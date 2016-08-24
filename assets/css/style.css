@@ -1041,3 +1041,8 @@ figure.effect-bubba:hover p {
 .count-particles {
   border-radius: 0 0 3px 3px;
 }
+
+.image-info {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
